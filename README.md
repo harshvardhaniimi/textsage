@@ -15,7 +15,7 @@ To run locally:
 
 ### Extension
 
-Currently working to get the extension on Chrome Web Store as well.
+Link on Chrome Web Store: <https://chromewebstore.google.com/detail/textsage-ai-factchecking/abdikojdjeedacfmhofkpikjdomaceao>
 
 To install the extension locally:
 1. Navigate to `/extension`
