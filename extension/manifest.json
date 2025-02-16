@@ -3,7 +3,7 @@
     "name": "TextSage - AI Factchecking and Explanations",
     "version": "1.0",
     "description": "Right-click to explain or fact-check selected text using AI tools",
-    "permissions": ["contextMenus", "activeTab"],
+    "permissions": ["contextMenus", "activeTab", "tabs"],
     "background": {
       "service_worker": "background.js"
     },
