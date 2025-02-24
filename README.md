@@ -1,19 +1,16 @@
 # TextSage
 
-A browser extension and website for making text more digestible! ✨
+A browser extension for making text more digestible! ✨
+
+See <https://textsage.netlify.app/> for complete details.
+
+Suggestions (comments, issues, pull requests) are welcome!
 
 ## Project Structure
-- `/website` - Landing page for TextSage
+- `/website` - Landing page for TextSage (old website, v1)
 - `/extension` - Chrome extension source code
 
-## Development
-### Website
-The website is hosted on Netlify and can be found at <https://www.harsh17.in/TextSage/>.
-To run locally:
-1. Navigate to `/website`
-2. Open `index.html` in your browser
-
-### Extension
+## Extension
 
 Link on Chrome Web Store: <https://chromewebstore.google.com/detail/textsage-ai-factchecking/abdikojdjeedacfmhofkpikjdomaceao>
 
